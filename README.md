@@ -9,3 +9,6 @@ Achievements:
 - Presented the project to the Akim of Taldykorgan and representatives of the city administration
 
 The project reached the stage of real-world discussions and potential launch planning. However, due to the complexity of integrating with police and emergency systems, the final partnership agreement was not completed.
+## Demo Screenshots
+
+### User Interface
